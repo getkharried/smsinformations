@@ -1,0 +1,19 @@
+{
+    "name": "getkharried/smslocation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "getkharried",
+            "email": "70629775+getkharried@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "class/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "symfony/var-dumper": "^5.1"
+    }
+}
